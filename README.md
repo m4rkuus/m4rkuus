@@ -18,7 +18,7 @@
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
+  <img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 </p>
 
 
